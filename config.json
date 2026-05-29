@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchuave",
+        "uuid": 71148,
+        "checksum": "iz8cqh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
